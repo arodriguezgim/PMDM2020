@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944674010829",
+    "project_id": "flutter-firestore-iesch",
+    "storage_bucket": "flutter-firestore-iesch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944674010829:android:7cf2f9f732c3b7af329b84",
+        "android_client_info": {
+          "package_name": "com.creatersolutions.firebase_app_dam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944674010829-thc4elnt4ues898p35gdkcbkjt0mef8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30BN2zWLF-gGmm5ahy3eiaO7Q9G9pphY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944674010829-thc4elnt4ues898p35gdkcbkjt0mef8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
