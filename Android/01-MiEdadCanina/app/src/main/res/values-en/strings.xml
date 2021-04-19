@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Dog Age</string>
+    <string name="instrucciones">Write your age and calculate your dog age</string>
+    <string name="pulsame">Calculate it!</string>
+    <string name="respuesta">If you were dog your age would be: %d !!</string>
+</resources>
