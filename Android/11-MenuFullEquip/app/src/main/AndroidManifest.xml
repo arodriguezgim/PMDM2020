@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.iesch.alberto.a11_menufullequip">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:theme="@style/ThemeSettings"
+            android:name=".SettingsActivity">
+        </activity>
+        <activity
+            android:name=".ElTiempoActivity"
+            android:theme="@style/ThemeWeather"/>
+        <activity
+            android:name=".MapasActivity"
+            android:theme="@style/ThemeMap"/>
+        <activity
+            android:name=".GaleriaActivity"
+            android:theme="@style/ThemeGallery"/>
+        <activity
+            android:name=".MusicaActivity"
+            android:theme="@style/ThemeMusic"/>
+        <activity
+            android:name=".ChatActivity"
+            android:theme="@style/ThemeChat"/>
+        <activity
+            android:name=".ListaAmigosActivity"
+            android:theme="@style/ThemeListaAmigos"/>
+        <activity
+            android:name=".CalculadoraActivity"
+            android:theme="@style/ThemeCalculadora"/>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

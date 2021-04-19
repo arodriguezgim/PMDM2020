@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451659849925",
+    "firebase_url": "https://firtutorial-502dd.firebaseio.com",
+    "project_id": "firtutorial-502dd",
+    "storage_bucket": "firtutorial-502dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451659849925:android:27a20ccafea6b6443c10ac",
+        "android_client_info": {
+          "package_name": "com.creatersolutions.a18_firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451659849925-epktj26ecbe3mndea0f8s243502l933q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEMQYtFiXMWVkSbotOXFCLwwK9xL_LhN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451659849925-epktj26ecbe3mndea0f8s243502l933q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

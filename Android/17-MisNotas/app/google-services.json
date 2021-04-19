@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1031997320232",
+    "firebase_url": "https://misnotas-95f64.firebaseio.com",
+    "project_id": "misnotas-95f64",
+    "storage_bucket": "misnotas-95f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031997320232:android:2bda7384ef0bd75f93d91d",
+        "android_client_info": {
+          "package_name": "org.iesch.alberto.a17_misnotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031997320232-jv5dkpghcvq9lp9i7j2cpg0tj1mn77qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.iesch.alberto.a17_misnotas",
+            "certificate_hash": "de604f981559573ec1dc976ef4615076308aabb1"
+          }
+        },
+        {
+          "client_id": "1031997320232-4hoedaiiuq0jao5oafb2ptii9tkvcffq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZE58kVr6hehOPdpUuI9-pgNQ5Hz4Plw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031997320232-4hoedaiiuq0jao5oafb2ptii9tkvcffq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
